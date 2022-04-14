@@ -1,2 +1,2 @@
 # JS-array-exercises
-Array exercises with some data
+practicing array methods with some data
